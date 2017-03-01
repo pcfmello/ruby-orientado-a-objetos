@@ -12,8 +12,8 @@ Esse é um projeto de aprendizado de __Ruby__ em seu principal paradigma, a __or
 * Controle de acesso e construtores
 * Encapsulamento
 * Heranças
-* Sobrescritas
-* Sobrecarga e ducking type
+* Overrides
+* Overloading e ducking type
 
 ### Créditos
 _Esse é um curso ministrado pela [School of Net](https://www.schoolofnet.com)_ na qual possui muitos outros cursos e com conteúdos muito atualizados.
